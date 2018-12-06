@@ -1,8 +1,8 @@
 # C++,java
 ## Problem Solving helper
 
-Include code snippets which helps to solve complex problems
+Include code snippets which helps to solve complex problems<br />
 
-1.Biginteger 
-2.Virtual Functions in c++
-3.LRU chace
+1.Biginteger <br />
+2.Virtual Functions in c++ <br />
+3.LRU chace<br />
